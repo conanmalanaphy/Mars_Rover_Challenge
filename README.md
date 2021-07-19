@@ -25,3 +25,4 @@ The project reads a CSV file held in the pubic folder called rover_instructions.
 What I would have done differently if i had more time
 1. Better UI - currently very basic grid, i would have liked it to take up the who screen height and visually be more appealing. 
 2. The CSV loader could have been done with a drag and drop loader.
+3. On the fly add a new rover in the UI with input boxes
